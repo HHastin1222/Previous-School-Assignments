@@ -1,3 +1,6 @@
+// Haley Hasting
+// Sorting of numbers from a file and then averages them and sorts them
+
 #include <iostream>
 #include <fstream>
 using namespace std;
